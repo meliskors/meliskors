@@ -6,7 +6,7 @@ I am a journalist and photographer. And I am someone who is interested in softwa
 
 👀 I am interested in Java, C#, JavaScript for my future.
 
-🌱 I’m currently learning Java, C#, JavaScript and Css.
+🌱 I’m currently learning Java, C# and Web design.
 
 🤔 I’m looking for help with Web Develop
 
